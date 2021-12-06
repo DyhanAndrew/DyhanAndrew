@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DyhanAndrew
+- 👋 Hi, I’m Dyhan Andrew.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ML/DL techniques and Neural Networks.
+- 💞️ I’m looking to collaborate on Data Science.
+- 📫 How to reach me - dyhanandrew@gmail.com
 
 <!---
 DyhanAndrew/DyhanAndrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
